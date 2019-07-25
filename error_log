@@ -1,0 +1,53 @@
+[23-Jul-2019 23:15:27 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function execute() in /home1/sendytoo/public_html/decode/index.php:21
+Stack trace:
+#0 {main}
+  thrown in /home1/sendytoo/public_html/decode/index.php on line 21
+[23-Jul-2019 23:15:41 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function execute() in /home1/sendytoo/public_html/decode/index.php:21
+Stack trace:
+#0 {main}
+  thrown in /home1/sendytoo/public_html/decode/index.php on line 21
+[23-Jul-2019 23:16:10 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function execute() in /home1/sendytoo/public_html/decode/index.php:21
+Stack trace:
+#0 {main}
+  thrown in /home1/sendytoo/public_html/decode/index.php on line 21
+[23-Jul-2019 23:16:12 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function execute() in /home1/sendytoo/public_html/decode/index.php:21
+Stack trace:
+#0 {main}
+  thrown in /home1/sendytoo/public_html/decode/index.php on line 21
+[23-Jul-2019 23:16:44 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function execute() in /home1/sendytoo/public_html/decode/index.php:21
+Stack trace:
+#0 {main}
+  thrown in /home1/sendytoo/public_html/decode/index.php on line 21
+[23-Jul-2019 23:16:49 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function execute() in /home1/sendytoo/public_html/decode/index.php:21
+Stack trace:
+#0 {main}
+  thrown in /home1/sendytoo/public_html/decode/index.php on line 21
+[23-Jul-2019 23:16:57 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function execute() in /home1/sendytoo/public_html/decode/index.php:21
+Stack trace:
+#0 {main}
+  thrown in /home1/sendytoo/public_html/decode/index.php on line 21
+[23-Jul-2019 23:18:19 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function execute() in /home1/sendytoo/public_html/decode/index.php:21
+Stack trace:
+#0 {main}
+  thrown in /home1/sendytoo/public_html/decode/index.php on line 21
+[23-Jul-2019 23:19:06 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function execute() in /home1/sendytoo/public_html/decode/index.php:21
+Stack trace:
+#0 {main}
+  thrown in /home1/sendytoo/public_html/decode/index.php on line 21
+[23-Jul-2019 23:19:25 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function execute() in /home1/sendytoo/public_html/decode/index.php:21
+Stack trace:
+#0 {main}
+  thrown in /home1/sendytoo/public_html/decode/index.php on line 21
+[23-Jul-2019 23:19:39 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function execute() in /home1/sendytoo/public_html/decode/index.php:21
+Stack trace:
+#0 {main}
+  thrown in /home1/sendytoo/public_html/decode/index.php on line 21
+[24-Jul-2019 00:03:14 UTC] PHP Warning:  file_get_contents(/decoded_data.csv): failed to open stream: No such file or directory in /home1/sendytoo/public_html/decode/index.php on line 16
+[24-Jul-2019 00:03:14 UTC] PHP Warning:  fopen(/decoded_data.csv): failed to open stream: Permission denied in /home1/sendytoo/public_html/decode/index.php on line 17
+[24-Jul-2019 00:03:14 UTC] PHP Warning:  fwrite() expects parameter 1 to be resource, boolean given in /home1/sendytoo/public_html/decode/index.php on line 18
+[24-Jul-2019 00:03:14 UTC] PHP Warning:  fclose() expects parameter 1 to be resource, boolean given in /home1/sendytoo/public_html/decode/index.php on line 19
+[25-Jul-2019 04:50:17 UTC] PHP Warning:  base64_decode() expects parameter 1 to be string, array given in /home1/sendytoo/public_html/decode/index.php on line 23
+[25-Jul-2019 04:53:49 UTC] PHP Fatal error:  Uncaught Error: Undefined constant 'n' in /home1/sendytoo/public_html/decode/index.php:24
+Stack trace:
+#0 {main}
+  thrown in /home1/sendytoo/public_html/decode/index.php on line 24
